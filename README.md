@@ -6,6 +6,4 @@ The final build (apk) is in the build.zip file. Unzip it and install the apk to 
 
 Video Demo:
 
-<iframe width="644" height="362" src="https://www.youtube.com/embed/s4jpA78rYMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 https://youtu.be/s4jpA78rYMA
